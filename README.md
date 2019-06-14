@@ -1,8 +1,13 @@
-# POS_Project
-<<<<<<< HEAD
-김밥집 포스 프로그램 구현하는 프로젝트입니다!
-=======
-김밥집 포스 프로그램을 구현하는 프로젝트 입니다!
->>>>>>> branch 'master' of https://github.com/ekdms2309/POS_Project.git
+# KimBab Store POS Project (still improving)
 
-PPT: https://docs.google.com/presentation/d/1WXDR6JRhT1aKeZtJIDlef5yIFrZhZFUgEjiRbRkqiHE/edit?usp=sharing
+## Diagram
+![](diagram.JPG)
+
+## Technologies
+Project is created with:
+* Eclipse
+* java
+
+## See also
+- code: https://github.com/iDaeun/POS_Project.copy/tree/master/POSproject
+- Description (PPT file): https://docs.google.com/presentation/d/1WXDR6JRhT1aKeZtJIDlef5yIFrZhZFUgEjiRbRkqiHE/edit?usp=sharing
